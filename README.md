@@ -8,3 +8,5 @@ Prosty język podobny do brainfuck. Jest on oparty na stacku. Interpreter zosta�
 | Wziwzium        | Zwiekszasz pointer w stacku o jeden      |
 | wziwziuM        | Zwiekszasz pointer w stacku o jeden      |
 | Wziumnij        | Printuje character (tak jak putchar w c) |
+## Przykłady
+Przykładu używania tego języka znajdziesz w folderze **examples**
